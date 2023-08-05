@@ -40,7 +40,6 @@ executed on clicking the Start button
         -Entry Box (ebox) is set to execute a func enter_click() on pressing Enter Key
     Line 88:
     defining a list 'entered' to store the entered alphabets
-    
     Lines 37-83: enter_click() func
     assigning value to variable 'text' depending on different easy_to_understand conditions
     'text' is displayed at the end of execution of function
